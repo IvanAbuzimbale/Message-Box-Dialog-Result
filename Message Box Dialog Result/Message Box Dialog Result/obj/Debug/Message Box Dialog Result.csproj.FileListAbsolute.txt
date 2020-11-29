@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\bin\Debug\Message Box Dialog Result.exe.config
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\bin\Debug\Message Box Dialog Result.exe
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\bin\Debug\Message Box Dialog Result.pdb
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message Box Dialog Result.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message_Box_Dialog_Result.Form1.resources
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message_Box_Dialog_Result.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message Box Dialog Result.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message Box Dialog Result.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message Box Dialog Result.exe
+C:\Users\Ivan\source\repos\Message Box Dialog Result\Message Box Dialog Result\obj\Debug\Message Box Dialog Result.pdb
